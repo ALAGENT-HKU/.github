@@ -42,6 +42,10 @@ git clone https://github.com/ALAGENT-HKU/x2strategy.git ~/.claude/skills/x2strat
 
 <div align="center">
 
-[🌐 Homepage](http://home.alagent.cloud) · [🚀 Try Platform Free](http://www.alagent.cloud) · [💬 WeChat Group](https://raw.githubusercontent.com/ALAGENT-HKU/.github/main/profile/wechat_qr.jpg)
+[🌐 Homepage](http://home.alagent.cloud) · [🚀 Try Platform Free](http://www.alagent.cloud)
+
+#### 💬 WeChat Group
+
+<img src="https://raw.githubusercontent.com/ALAGENT-HKU/.github/main/profile/wechat_qr.jpg" alt="WeChat Group QR" width="200">
 
 </div>
