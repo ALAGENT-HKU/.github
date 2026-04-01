@@ -42,7 +42,7 @@ git clone https://github.com/ALAGENT-HKU/x2strategy.git ~/.claude/skills/x2strat
 
 <div align="center">
 
-[🌐 Homepage](http://home.alagent.cloud) · [🚀 Try Platform Free](http://www.alagent.cloud)
+[🌐 Homepage](http://home.alagent.cloud) · [🚀 Try Platform Free](http://www.alagent.cloud) · [📧 contact@alagent.cloud](mailto:contact@alagent.cloud)
 
 #### 💬 WeChat Group
 
