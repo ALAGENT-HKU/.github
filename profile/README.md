@@ -8,7 +8,7 @@
 
 A joint initiative by the Department of Computer Science and the Faculty of Business and Economics at **The University of Hong Kong**.
 
-香港大学计算机系与经管学院联合发起。
+香港大学计算机系与经管学院教授联合发起。
 
 ---
 
