@@ -46,6 +46,6 @@ git clone https://github.com/ALAGENT-HKU/x2strategy.git ~/.claude/skills/x2strat
 
 #### 💬 WeChat Group
 
-<img src="https://raw.githubusercontent.com/ALAGENT-HKU/.github/main/profile/wechat_qr.jpg" alt="WeChat Group QR" width="200">
+<img src="https://raw.githubusercontent.com/ALAGENT-HKU/.github/main/profile/wechat_qr_code.png" alt="WeChat Group QR" width="200">
 
 </div>
